@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Algorhythm22`,
     description: `Association Day of Computer Science and Engineering, GEC Palakkad.`,
-    author: `Vishnu Mohanan; Anjas Kunnummal; Adhil Muhammed`,
+    author: `Vishnu Mohanan; Anjas Kunnummal; Adhil Muhammed; Alen Kuriakose; Abdul Shaharath;`,
     siteUrl: `https://www.algorhythm22.tech`,
   },
   plugins: [
